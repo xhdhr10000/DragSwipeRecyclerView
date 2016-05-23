@@ -1,0 +1,38 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+#Idea
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+#Gradle build
+build/
+.build
+
+#Eclipse project files
+.classpath
+.project
+.settings/
+
+# OS auto gen
+.DS_Store
+Thumbs.db
+
+#Temp files
+*.bak
+*.tmp
+*.temp
+*.swp
+*.vpp
+*.*~
+~*.*
+
+*.apk
